@@ -26,7 +26,7 @@ html,body{
 }
 
 .block{
-    position: absolute;
+    position: relative;
     background-image: url(img/block.png);
     background-size: cover;
     width: 50%;
@@ -55,7 +55,7 @@ h1, h2{
     color: white;
     text-align: center;
     font-weight: lighter;
-    text-shadow: 10px 10px 30px rgb(141, 82, 148)
+    text-shadow: 10px 10px 30px rgb(189, 189, 189)
 }
 
 h1{
