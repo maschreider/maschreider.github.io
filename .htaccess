@@ -1,5 +1,3 @@
 <Directory "/secret1/">
     Options -Indexes
-    Order Allow,Deny
-    Deny from all
 </Directory>
